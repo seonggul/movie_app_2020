@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seonggul/movie_app_2020/static/css/main.46f00f78.chunk.css",
+    "main.js": "/seonggul/movie_app_2020/static/js/main.34ef481f.chunk.js",
+    "main.js.map": "/seonggul/movie_app_2020/static/js/main.34ef481f.chunk.js.map",
+    "runtime-main.js": "/seonggul/movie_app_2020/static/js/runtime-main.d3c4cbbd.js",
+    "runtime-main.js.map": "/seonggul/movie_app_2020/static/js/runtime-main.d3c4cbbd.js.map",
+    "static/js/2.300fc6d8.chunk.js": "/seonggul/movie_app_2020/static/js/2.300fc6d8.chunk.js",
+    "static/js/2.300fc6d8.chunk.js.map": "/seonggul/movie_app_2020/static/js/2.300fc6d8.chunk.js.map",
+    "index.html": "/seonggul/movie_app_2020/index.html",
+    "precache-manifest.ecdd1759404fbde241b05b5a9a1b3606.js": "/seonggul/movie_app_2020/precache-manifest.ecdd1759404fbde241b05b5a9a1b3606.js",
+    "service-worker.js": "/seonggul/movie_app_2020/service-worker.js",
+    "static/css/main.46f00f78.chunk.css.map": "/seonggul/movie_app_2020/static/css/main.46f00f78.chunk.css.map",
+    "static/js/2.300fc6d8.chunk.js.LICENSE.txt": "/seonggul/movie_app_2020/static/js/2.300fc6d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c4cbbd.js",
+    "static/js/2.300fc6d8.chunk.js",
+    "static/css/main.46f00f78.chunk.css",
+    "static/js/main.34ef481f.chunk.js"
+  ]
+}
