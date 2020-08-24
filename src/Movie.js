@@ -9,11 +9,12 @@ return  (<div className="movie">
             <div className="movie_data">
                 <h3 className="movie_title">{title}</h3>
                 <h5 className="movie_year">{year}</h5>
-                <p className="movie_summary">{summary}</p>
                 <ul className="genres">
-                  {genres.map(genre=>(
-                    <li className="genres_genre">{genre}</li>))}
+                  {genres.map((genre, index)=>(
+                    <li className="genres_genre" key={index}>
+                      {genre} </li>))}
                 </ul>
+                <p className="movie_summary">{summary}</p>
             </div>
         </div>);
 }
