@@ -10,4 +10,5 @@ ReactDOM.render(
   document.getElementById('potato')
 );
 
+
 //render 할수있는건 1개뿐 지금은 <APP />이 사용중이라 potato는 app안에 넣어두면 됨.
